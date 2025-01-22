@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>base URL open weather</description>
+      <initValue>'https://api.openweathermap.org/data/2.5/'</initValue>
+      <name>base_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
